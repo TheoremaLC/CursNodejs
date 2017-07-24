@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoremaLC/CursNodejs.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Mihaela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheoremaLC/CursNodejs/issues"
+  },
+  "homepage": "https://github.com/TheoremaLC/CursNodejs#readme"
+}
